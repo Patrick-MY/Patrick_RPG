@@ -1,0 +1,50 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Blueprints/BP_Dummy.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Blueprints/BPI_Assassination.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/6R/R2GP1AGKQH7O3PFGU5QRD0.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/ThirdPerson/Input/Actions/IA_Assassination.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/Characters/RPG_Character/Animations/Assassination/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"E:/Work/UE Projects/BaiduSyncdisk/MyRPG/Content/UI/WB_AssassinationPrompt.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace_1D.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_02.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue_01.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/7E/4ADQOU3MEYHWXLYDMKZBCO.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/CS/2PAUW5AK94ZPW5EWVYQQBS.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Idle_Break.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Walk_Stop.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Crouh_Walk.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Crouch_Idle.uasset",
+				"E:/Work/UE Projects/MyRPG/Content/Characters/RPG_Character/Animations/Locomotion/Locomotion.uasset"
+			]
+		}
+	]
+}
